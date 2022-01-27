@@ -1,0 +1,6 @@
+ /* Expanded form Example*/
+  ${function ({ gridSpan }) {
+    if (gridSpan) {
+      return `grid-column:span ${gridSpan}`;
+    }
+  }} en calculator/styled se usa este
